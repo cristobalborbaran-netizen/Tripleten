@@ -1,2 +1,1 @@
-# Tripleten
-My repository from tripleten sprints.
+# sprint7-final-project
